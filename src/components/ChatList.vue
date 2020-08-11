@@ -28,6 +28,7 @@ export default {
   methods: {
     contact_clicked(index) { 
       EventBus.$emit('UPDATED_HISTORY', index)
+      EventBus.$emit('SHOW_CONTACT', false)
     }
   }
 };

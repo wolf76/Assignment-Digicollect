@@ -55,6 +55,20 @@ export default {
 };
 </script>
 
+<style lang="scss">
+.showContact {
+  .main-wrapper {
+    &--left {
+      @media only screen and (max-width: 768px) {
+        position: absolute !important;
+        z-index: 100;
+        background: #222642;
+      }
+    }
+  }
+}
+</style>
+
 <style lang="scss" scoped>
 .container-fluid {
   background-color: #212542;
@@ -76,15 +90,15 @@ export default {
       border-right: 1px solid #2e3259;
       padding: 0 10px;
       height: 100%;
-
-      @media only screen and (max-width: 768px) {
-        display: none;
-      }
     }
 
     &--right {
       height: 100%;
       background-color: #222642;
+
+      @media only screen and (max-width: 768px) {
+        position: absolute !important;
+      }
     }
   }
 }

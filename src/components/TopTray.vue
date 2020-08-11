@@ -4,7 +4,7 @@
       <div class="col-md-4">
         <div class="row panel-tray .align-middle">
           <div class="col-md-4 panel-tray--left">
-            <div class="app-name">
+            <div class="app-name" @click="toggleMobContact()">
               <h5>DigiCollect</h5>
             </div>
           </div>
@@ -85,7 +85,10 @@
 
 export default {
   name: "TopTray",
-  components: {
+  methods: {
+    toggleMobContact() {
+      this.$emit('click')
+    }
   }
 };
 </script>

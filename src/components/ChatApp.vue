@@ -1,7 +1,7 @@
 <template>
-  <div class="main">
-    <TopTray />
-    <ChatMain :jsonData="jsonData" />
+  <div class="main" :class="{'showContact': displayContact}">
+    <TopTray @click="displayContact = true"/>
+    <ChatMain :jsonData="jsonData" @click="displayContact = false" />
     <Footer />
   </div>
 </template>
@@ -12,6 +12,7 @@ import ChatMain from './ChatMain'
 import Footer from './Footer'
 
 import chatData from '../assets/chat.json';
+import EventBus from '../eventBus'
 
 export default {
   name: "ChatApp",
@@ -22,11 +23,15 @@ export default {
   },
   data() {
     return {
-      jsonData: null
+      jsonData: null,
+      displayContact: false
     }
   },
   mounted() {
     this.jsonData = chatData;
+    EventBus.$on('SHOW_CONTACT', (payload) => {
+      this.displayContact = payload;
+    })
   }
 };
 </script>
