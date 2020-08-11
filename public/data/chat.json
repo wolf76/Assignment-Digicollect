@@ -1,0 +1,530 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+      "last_message": "My last message",
+      "last_seen": "1 mins",
+      "unread_messages": "",
+      "chat_history": [
+        {
+          "serial": 1,
+          "id": "first",
+          "message": "Hi, this is Naresh. We spoke earlier on the call regarding the item that you had ordered. Due to this lockdown we are currently runnig out of materials required to create the product. We request you to choose some other item.",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:00am"
+        },
+        {
+          "serial": 2,
+          "id": "first",
+          "message": "Your earliest reply is expected.",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 3,
+          "id": "second",
+          "message": "Hi, thanks for reaching out to me...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 4,
+          "id": "first",
+          "message": "Your earliest reply is expected.",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 5,
+          "id": "second",
+          "message": "Hi, thanks for reaching out to me...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 6,
+          "id": "first",
+          "message": "Your earliest reply is expected.",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 7,
+          "id": "second",
+          "message": "Hi, thanks for reaching out to me...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 8,
+          "id": "first",
+          "message": "Your earliest reply is expected.",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 9,
+          "id": "second",
+          "message": "Hi, thanks for reaching out to me...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        }
+      ]
+    },
+    {
+      "name": "Dave",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/filip.jpg",
+      "last_message": "Something good!",
+      "last_seen": "2 mins",
+      "unread_messages": "2",
+      "chat_history": [
+        {
+          "serial": 1,
+          "id": "first",
+          "message": "Can you send me that assignment",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:00am"
+        },
+        {
+          "serial": 2,
+          "id": "second",
+          "message": "Which One",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 3,
+          "id": "first",
+          "message": "I don't know for sure... LOL",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 4,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 5,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 6,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 7,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 8,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 9,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        }
+      ]
+    },
+    {
+      "name": "Sarah",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+      "last_message": "Let's go there...",
+      "last_seen": "3 mins",
+      "unread_messages": "3",
+      "chat_history": [
+        {
+          "serial": 1,
+          "id": "first",
+          "message": "Can you send me that assignment",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:00am"
+        },
+        {
+          "serial": 2,
+          "id": "second",
+          "message": "Which One",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 3,
+          "id": "first",
+          "message": "I don't know for sure... LOL",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 4,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 5,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 6,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 7,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 8,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 9,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:10am"
+        }
+      ]
+    },
+    {
+      "name": "Amanda",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/filip.jpg",
+      "last_message": "Do you wanna go there?",
+      "last_seen": "4 mins",
+      "unread_messages": "1",
+      "chat_history": [
+        {
+          "serial": 1,
+          "id": "first",
+          "message": "Let's play football today",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:00am"
+        },
+        {
+          "serial": 2,
+          "id": "second",
+          "message": "Nah I am budy today, may be tomorrow?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 3,
+          "id": "first",
+          "message": "Yep, I can work with that...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 4,
+          "id": "first",
+          "message": "What are you working on BTW ?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 5,
+          "id": "second",
+          "message": "Duh, the chem assignment...!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 6,
+          "id": "first",
+          "message": "Damn, I totally forgot about it !?!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 7,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 8,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 9,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        }
+      ]
+    },
+    {
+      "name": "Naveen",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+      "last_message": "Meh...!",
+      "last_seen": "5 mins",
+      "unread_messages": "1",
+      "chat_history": [
+        {
+          "serial": 1,
+          "id": "first",
+          "message": "Let's play football today",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:00am"
+        },
+        {
+          "serial": 2,
+          "id": "second",
+          "message": "Nah I am budy today, may be tomorrow?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 3,
+          "id": "first",
+          "message": "Yep, I can work with that...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 4,
+          "id": "first",
+          "message": "What are you working on BTW ?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 5,
+          "id": "second",
+          "message": "Duh, the chem assignment...!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 6,
+          "id": "first",
+          "message": "Damn, I totally forgot about it !?!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 7,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 8,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 9,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        }
+      ]
+    }
+    ,{
+      "name": "Kenny",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/filip.jpg",
+      "last_message": "That's not possible!",
+      "last_seen": "6 mins",
+      "unread_messages": "5",
+      "chat_history": [
+        {
+          "serial": 1,
+          "id": "first",
+          "message": "Let's play football today",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:00am"
+        },
+        {
+          "serial": 2,
+          "id": "second",
+          "message": "Nah I am budy today, may be tomorrow?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 3,
+          "id": "first",
+          "message": "Yep, I can work with that...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 4,
+          "id": "first",
+          "message": "What are you working on BTW ?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 5,
+          "id": "second",
+          "message": "Duh, the chem assignment...!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 6,
+          "id": "first",
+          "message": "Damn, I totally forgot about it !?!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 7,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 8,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 9,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        }
+      ]
+    },
+    {
+      "name": "Prashu",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/filip.jpg",
+      "last_message": "Do you wanna go there?",
+      "last_seen": "4 mins",
+      "unread_messages": "1",
+      "chat_history": [
+        {
+          "serial": 1,
+          "id": "first",
+          "message": "Let's play football today",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:00am"
+        },
+        {
+          "serial": 2,
+          "id": "second",
+          "message": "Nah I am budy today, may be tomorrow?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:01am"
+        },
+        {
+          "serial": 3,
+          "id": "first",
+          "message": "Yep, I can work with that...",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:10am"
+        },
+        {
+          "serial": 4,
+          "id": "first",
+          "message": "What are you working on BTW ?",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 5,
+          "id": "second",
+          "message": "Duh, the chem assignment...!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 6,
+          "id": "first",
+          "message": "Damn, I totally forgot about it !?!",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 7,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:11am"
+        },
+        {
+          "serial": 8,
+          "id": "second",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg",
+          "sent_time": "Today at 9:13am"
+        },
+        {
+          "serial": 9,
+          "id": "first",
+          "message": "Blaa blaa",
+          "pro_pic": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg",
+          "sent_time": "Today at 9:13am"
+        }
+      ]
+    }
+  ],
+  "pinned_contacts": [
+    {
+      "name": "Maria",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/real-terminator.png"
+    },
+    {
+      "name": "John",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/termy.jpg"
+    },
+    {
+      "name": "David",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rachel.jpeg"
+    },
+    {
+      "name": "Sasha",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg"
+    },
+    {
+      "name": "Jonny",
+      "profile_image": "https://www.clarity-enhanced.net/wp-content/uploads/2020/06/filip.jpg"
+    }
+  ]
+}

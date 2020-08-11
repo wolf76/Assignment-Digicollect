@@ -1,0 +1,15 @@
+<svg width="150" height="54" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="transparent" id="canvas_background" height="56" width="152" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text style="cursor: move;" stroke="#000" transform="matrix(2.77083683013916,0,0,2.7090909481048584,-406.40705251693726,-371.6471675746143) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="239.45313" x="229.5" stroke-width="0" fill="#ffffff">DigiChat</text>
+  <text font-weight="bold" transform="matrix(1.3594352006912231,0,0,1.6545454263687134,-56.38639710843563,-5.53295430727303) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="28.63994" x="44.78801" stroke-width="0" fill="#ffffff">DigiCash</text>
+ </g>
+</svg>
