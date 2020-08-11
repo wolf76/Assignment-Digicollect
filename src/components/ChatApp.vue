@@ -7,11 +7,11 @@
 </template>
 
 <script>
-import axios from 'axios';
-
 import TopTray from './TopTray'
 import ChatMain from './ChatMain'
 import Footer from './Footer'
+
+import chatData from '../assets/chat.json';
 
 export default {
   name: "ChatApp",
@@ -26,14 +26,7 @@ export default {
     }
   },
   mounted() {
-    let url = "http://localhost:8080/data/chat.json";
-    axios.get(url)
-    .then (res => {
-      this.jsonData = res.data
-    })
-    .catch(err => {
-      console.log(err);
-    })
+    this.jsonData = chatData;
   }
 };
 </script>
